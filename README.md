@@ -66,14 +66,3 @@ Robot hoạt động theo chiến thuật:
 | Cảm biến phải | A1      |
 | VCC           | 5V      |
 | GND           | GND     |
-
-# 💻 Cài đặt chương trình
-
-## Yêu cầu
-
-* Arduino IDE
-* Board Arduino UNO R3
-* Cáp USB
-* Driver USB Arduino
-
----
